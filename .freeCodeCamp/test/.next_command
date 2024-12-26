@@ -1,3 +1,4 @@
 ./countdown.sh 10
 help help
 help
+ls --color=auto /
