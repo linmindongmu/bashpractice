@@ -33,3 +33,6 @@ echo $I
 help let
 (( I += 10 ))
 echo $I
+git remote set-url origin https://github.com/linmindongmu/bashpractice.git
+git checkout -b checkpoint_1
+git add .
